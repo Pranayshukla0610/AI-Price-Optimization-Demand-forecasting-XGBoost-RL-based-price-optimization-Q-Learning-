@@ -10,7 +10,8 @@ This repository provides notebooks and scripts to reproduce the pipeline on samp
 
 **Live demo:** Click the Colab badge below to open the notebook (private repo: accessible to collaborators only).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-org/ai-price-optimization/blob/main/notebooks/03_demand_modeling_xgboost.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ae9B5hX5bYIllVBN7cfppdJK_X8L7UIf)
+
 
 ## Structure
 Describe folders (as above).
